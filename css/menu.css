@@ -120,13 +120,14 @@
         margin-bottom: 60px;
       }
       #home h1 {
-        color: #FFE569;
+        color: #ffbd76;
         margin-top: 5px;
         margin-left: 5px;
-        margin-bottom: 40px;
+        margin-bottom: 150px;
         /*font-size: 40px;*/
         text-size-adjust: 3px;
         /*color: #F79327;*/
+        text-shadow: #191825 0px 0px 10px;
       }
     
       .home-info {
