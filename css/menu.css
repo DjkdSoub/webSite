@@ -5,6 +5,36 @@
     background: #f9f9f9;
   }
   
+
+  /*---------------------------------------
+     TYPOGRAPHY              
+  -----------------------------------------*/
+
+  h1,h2,h3,h4,h5,h6 {
+    font-weight: 300;
+    line-height: normal;
+  }
+
+  h1 {
+    font-size: 3em;
+  }
+
+  h2 {
+    color: #353535;
+    font-size: 2em;
+  }
+
+  p {
+    color: #757575;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 24px;
+  }
+
+
+
+
+  
   /*---------------------------------------
       MENU              
   -----------------------------------------*/
@@ -27,7 +57,7 @@
   }
 
   .custom-navbar .navbar-nav {
-    margin-left: 40em;
+    margin-left: 6em;
   }
 
   .custom-navbar .nav li a {
@@ -92,6 +122,7 @@
     .top-nav-collapse .nav .section-btn a {
       color: #ffffff;
     }
+  }
 
     
   /*---------------------------------------
@@ -204,7 +235,7 @@
     padding: 60px;
     position: absolute;
     bottom: -35em;
-    margin-bottom: 40px;
+    margin-bottom: 100px;
   }
   /*---------------------------------------
       ABOUT              
@@ -319,8 +350,16 @@
      FOOTER              
   -----------------------------------------*/
 
+  /*---------------------------------------
+     FOOTER              
+  -----------------------------------------*/
+
   footer {
     padding-bottom: 80px;
+  }
+
+  .copyright-text p {
+    margin: 5px;
   }
 
 
@@ -359,4 +398,4 @@
   }
 
 
-  }
+  
